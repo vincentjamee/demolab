@@ -1,3 +1,1 @@
-# Hello tanga
-
-mas tanga ka
+# Getting ready for python 2
